@@ -13,6 +13,7 @@ img{border: 5px solid #fff240;
     margin-bottom: 30px;
     max-width: 80%;
     height: auto;
+    width: 50%;
 }
 footer{
     text-align: center;
@@ -40,6 +41,6 @@ footer{
     font-weight: bold;
     
   }
- p{
+ p{float: left;
      font-size: 2em;
  }
