@@ -67,7 +67,7 @@ img{
     border-radius: 30%;
     height: 30%;
     float: right;
-  
+    border: 0px solid rgb(87, 87, 87);
 }
 .article{
     text-align: center;
