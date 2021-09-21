@@ -1,10 +1,14 @@
 /* Navigation*/
-nav{font-family: 'Alfa Slab One', cursive;
+nav{
+  font-family: 'Alfa Slab One', cursive;
   background-color: darkslategrey;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 10px 15px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 a.logo div {
   width: 100px;
@@ -17,9 +21,6 @@ a.logo div span {
 .logo{
   border-radius: 50%;
 }
-.logo:hover{
-  color:black;
-}
 nav ul {
   list-style-type: none;
   display: flex;
@@ -27,9 +28,6 @@ nav ul {
   align-items: center;
   justify-content: flex-end;
 }
-
-
- 
   /*Links*/
 a{  text-decoration: none;
     color: white;
@@ -38,7 +36,6 @@ a{  text-decoration: none;
 a:hover {
     color: black;
   }
-
 /*header area*/
 header{text-align: center;
     color: white;
@@ -47,7 +44,9 @@ header{text-align: center;
 h1{font-family: 'Alfa Slab One', cursive;
     color: floralwhite;
     letter-spacing: 3px;
+    justify-content: center;
 }
+
 p{text-align: justify;
     
     padding: 0 20px 20px 0;
@@ -58,6 +57,7 @@ body{
 main{margin-top: 70px;
     text-align: center;
     font-family: 'Oxygen Mono', monospace;
+    
 }
 .profile-pic{ border-radius: 50%;
   border: 5px solid rgb(87, 87, 87);
@@ -68,21 +68,30 @@ main{margin-top: 70px;
     padding: 20px;
     border-radius: 30%;
     height: 30%;
-    float: right;
     border: 0px solid rgb(87, 87, 87);
     margin: 0px auto;
+    max-width: 500px;
 }
 .article{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     text-align: center;
     max-width: 800px;
     margin: 50px auto;
     padding: 20px;
 }
-section {
- 
+section {max-width: 800px;
+    display: flex;
     background-color: #9D9B9A90;
     padding: 20px;
     border-radius: 20px;  
+  }
+  .img-text-container{margin: 0 auto;
+ flex-direction: row; 
+ justify-content: center;
+ align-items: flex-start; 
+ flex-wrap: wrap;
   }
   /*footer area*/
   footer{
