@@ -58,8 +58,9 @@ img{
     
     padding: 0 20px 20px 0;
    }
-.cat-pic{
+.cat-pic{display: inline-flex;
     border-radius: 30%;
+    height: 30%;
 }
 .article{
     
