@@ -59,9 +59,20 @@ main{margin-top: 70px;
     font-family: 'Oxygen Mono', monospace;
     
 }
+.stats{margin: 0 auto;
+  display: flex;
+  flex-direction: row; 
+  justify-content: center;
+  align-items: flex-start; 
+  flex-wrap: wrap;
+  width: 40px;
+  filter: invert(75%) sepia(73%) saturate(424%) hue-rotate(83deg) brightness(99%) contrast(93%);
+  padding: 5px;
+}
 .profile-pic{ border-radius: 50%;
   border: 5px solid rgb(87, 87, 87);
   margin:0px auto;
+  margin-bottom: 20px;
 
 }
 .cat-pic{
