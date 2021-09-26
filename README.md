@@ -14,3 +14,5 @@ https://rankorrdagod.github.io/cpnt260-a1/
 - compiled images and decided on D&D theme for teams page
 - picked classes for everyone with their approvals
 - thank you to kyle, frank, jesse and casey for the modeling.
+## Write Up
+Besides the grid set up taking a little while to get going correctly things for the most part cooperated. Images were awkward getting to get the same size, as you can see Casey's is still slightly larger because of the aspect ratio, changing height to 100% skews the other photos might try changing to 50% but i imagine that would just end upsquishing Casey. Couldn't remember early on how to make just certain portions of text to change color like in meet the team, applied <span> and a class id to accomplish the change. Also had a weird issue where my github pulls weren't up to date on my lap top but the issue seems to have fixed it self on its own.
