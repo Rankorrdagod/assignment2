@@ -93,6 +93,7 @@ h2, p {
     padding: 20px;
     font-size: 150%;
     margin-bottom: 10px;
+    
   }
   
   .header, .footer {
@@ -105,9 +106,10 @@ h2, p {
     .wrapper > * {
       width: auto;
       margin: 0;
-      grid-template-columns: 1fr
+      
     }
   }
-  
+
+ 
   
   
