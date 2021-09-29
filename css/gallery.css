@@ -8,3 +8,9 @@ body{
 h1{
     color: #78967C;
 }
+.grid-layout{
+    columns: 5 200px;
+  column-gap: 1.5rem;
+  width: 90%;
+  margin: 0 auto;
+}
