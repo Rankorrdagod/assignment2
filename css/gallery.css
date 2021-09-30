@@ -17,11 +17,12 @@ body {
 
     figure {
      width: 150px;
+     background-color: grey;
       margin: 0 1.5rem 1.5rem 0;
       display: inline-block;
       width: 100%;
-      border: solid 2px black;
-      color: white;
+      border: solid 4px black;
+      color: black;
       padding: 5px;
       box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
       border-radius: 5px;
@@ -32,6 +33,7 @@ body {
       }
       figure:hover {
         border-color: #78967C;
+        background-color: white;
       }
       figcaption{
         margin-top: 5px;
