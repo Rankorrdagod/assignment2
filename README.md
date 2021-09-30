@@ -30,3 +30,4 @@ Besides the grid set up taking a little while to get going correctly things for 
 - Having a strange problem where the icons for links are making the boreder radius of their respective circles different sizes.
 - Switched the background on the figures to grey to allow text legibility.
 - Added a transition that also changes background color during image transition from b&w to color.
+- Managed to somewhat fix the border for the logo links, some of them are still slightly off.
