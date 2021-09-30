@@ -20,6 +20,8 @@ https://rankorrdagod.github.io/cpnt260-a2/
 Besides the grid set up taking a little while to get going correctly things for the most part cooperated. Images were awkward getting to get the same size, as you can see Casey's is still slightly larger because of the aspect ratio, changing height to 100% skews the other photos might try changing to 50% but i imagine that would just end upsquishing Casey. Couldn't remember early on how to make just certain portions of text to change color like in meet the team, applied <span> and a class id to accomplish the change. Also had a weird issue where my github pulls weren't up to date on my lap top but the issue seems to have fixed it self on its own.
 
 # 260-a3
+https://rankorrdagod.github.io/cpnt260-a3/
+https://github.com/Rankorrdagod/cpnt260-a3
 ## Day 1:
 - Decided on a layout and to add black and white transition on hover (hopefully).
 - Going to try a flex layout and see how it works if not will switch to grid!
