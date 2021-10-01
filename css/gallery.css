@@ -124,7 +124,27 @@ body {
         font-weight: bold;
         color:black;
       }
-    
+      .fas fa-heart{
+        color: black;
+      }
+      [type="radio"] {
+        position: absolute;
+        opacity: 0;
+        width: 0;
+        height: 0;
+        color: black;
+      }
+      
+      [type="radio"] + i {
+        cursor: pointer;
+        
+      }
+      
+      /* CHECKED STYLES */
+      
+      [type="radio"]:checked + i {
+        color:crimson;
+      }
   
   
   
