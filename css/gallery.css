@@ -125,25 +125,25 @@ body {
         color:black;
       }
       .fas fa-heart{
-        color: black;
+        color: crimson;
       }
-      [type="radio"] {
+      [type="checkbox"] {
         position: absolute;
         opacity: 0;
         width: 0;
         height: 0;
-        color: black;
+        color: crimson;
       }
       
-      [type="radio"] + i {
+      [type="checkbox"] + i {
         cursor: pointer;
-        
+        color: crimson;
       }
       
       /* CHECKED STYLES */
       
-      [type="radio"]:checked + i {
-        color:crimson;
+      [type="checkbox"]:checked + i {
+        color:black;
       }
   
   
