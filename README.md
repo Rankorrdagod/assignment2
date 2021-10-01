@@ -41,4 +41,8 @@ This was a lot of fun to setup! As i mentioned I was having issues with my butto
 - Hayao Miyazaki, [Website](https://ghiblicollection.com//),[Wikipedia](https://en.wikipedia.org/wiki/Hayao_Miyazaki),[IMDB](https://www.imdb.com/name/nm0594503/)
 - Kentaro Miura, [Wikipedia](https://en.wikipedia.org/wiki/Kentaro_Miura),[IMDB](https://www.imdb.com/title/tt0318871/)
 - Steven Erikson, [Website](https://steven-erikson.org/), [Wikipedia](https://en.wikipedia.org/wiki/Steven_Erikson), [Twitter](https://twitter.com/erikson_steven?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
-- 
+- Alpha Wolf, [Website](https://www.alphawolfcvlt.com/), [Instagram](https://www.instagram.com/alphawolfcvlt/?hl=en), [Twitter](https://twitter.com/AlphaWolfCVLT?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+- Junji Ito, [Website](https://www.viz.com/junji-ito), [Wikipedia](https://en.wikipedia.org/wiki/Junji_Ito), [Twitter](https://twitter.com/junjiitofficial?lang=en)
+- Kim Jun Gi, [Website](https://www.kimjunggius.com/), [Instagram](https://www.instagram.com/kimjunggius/), [Twitter](https://twitter.com/KimJungGiUS?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+- J Cole, [Wesbite](http://www.dreamville.com/artist/cole/), [Instagram](https://www.instagram.com/realcoleworld/?hl=en), [Twitter](https://twitter.com/jcolenc?lang=en)
+- Neil Gaiman, [Website](https://www.neilgaiman.com/), [Wikipedia](https://en.wikipedia.org/wiki/Neil_Gaiman), [Twitter](https://twitter.com/neilhimself?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) 
