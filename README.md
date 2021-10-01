@@ -35,3 +35,10 @@ Besides the grid set up taking a little while to get going correctly things for 
 - Managed to somewhat fix the border for the logo links, some of them are still slightly off.
 ## Write Up
 This was a lot of fun to setup! As i mentioned I was having issues with my buttons not conforming to the radius of their borders in some cases, this has something to do with the aspect ratio of the icons used, my best fix was to try and find a happy medium that made them look circular and the same size. Weird spacing issues with figcaption when pushing things to the next line. Mostly happy with the outcome, might try to figure out away to expand pictures on click to show full size, think that would be neat. A little frustrated with font options, downloading fonts from third parties seems complicated... as well as having to create web kits which i dont fully understand.
+## Attributions:
+- John Silva Art, [Twitter](https://twitter.com/JohnSilvaArt?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), [Art Station](https://johnsilva.artstation.com/projects),[Instagram](https://www.instagram.com/john.silva.art/?hl=en).
+- Sana Takeda Art, [Website](https://sanatakeda.com/), [Instagram](https://www.instagram.com/sanatakeda_art/?hl=en)
+- Hayao Miyazaki, [Website](https://ghiblicollection.com//),[Wikipedia](https://en.wikipedia.org/wiki/Hayao_Miyazaki),[IMDB](https://www.imdb.com/name/nm0594503/)
+- Kentaro Miura, [Wikipedia](https://en.wikipedia.org/wiki/Kentaro_Miura),[IMDB](https://www.imdb.com/title/tt0318871/)
+- Steven Erikson, [Website](https://steven-erikson.org/), [Wikipedia](https://en.wikipedia.org/wiki/Steven_Erikson), [Twitter](https://twitter.com/erikson_steven?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
+- 
