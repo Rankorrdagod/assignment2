@@ -55,3 +55,8 @@ This was a lot of fun to setup! As i mentioned I was having issues with my butto
 - Not sure if using the formspree forms is great, their templates are complicated to add css to, eventually gave up as long as form was working in someway.
 - Twitter api was easy to get to work, browsed through a few others that were much too complicated in some cases.
 - Decided to have nav underneath the hero as i think it looks better in the end.
+## Attributions:
+1. Jadson Thomas, [Pexels](https://www.pexels.com/photo/graffiti-on-white-concrete-building-1535775/)
+2. Erik Terwan, [Codepen](https://codepen.io/erikterwan/pen/EVzeRP), Hamburger Menu
+3. Formspree, [Formspree](https://formspree.io/library/simple-contact-form/)
+4. Twitter, [Twitter API](https://developer.twitter.com/en/docs/twitter-for-websites)
