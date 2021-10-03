@@ -46,3 +46,12 @@ This was a lot of fun to setup! As i mentioned I was having issues with my butto
 - Kim Jun Gi, [Website](https://www.kimjunggius.com/), [Instagram](https://www.instagram.com/kimjunggius/), [Twitter](https://twitter.com/KimJungGiUS?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 - J Cole, [Wesbite](http://www.dreamville.com/artist/cole/), [Instagram](https://www.instagram.com/realcoleworld/?hl=en), [Twitter](https://twitter.com/jcolenc?lang=en)
 - Neil Gaiman, [Website](https://www.neilgaiman.com/), [Wikipedia](https://en.wikipedia.org/wiki/Neil_Gaiman), [Twitter](https://twitter.com/neilhimself?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) 
+# 260-a4
+1.
+2.
+## Write up
+- Had a difficult time with the hamburger menu working and being placed properly to hide its menu when not in use. Also realized needed to hide it by display;noneing it and vice versa with media query to show at smaller screen sizes.
+- Getting the background photo in the landing page to fit sort of properly was strange as it needed to be resized a few times. Happy with the scroll effect though.
+- Not sure if using the formspree forms is great, their templates are complicated to add css to, eventually gave up as long as form was working in someway.
+- Twitter api was easy to get to work, browsed through a few others that were much too complicated in some cases.
+- Decided to have nav underneath the hero as i think it looks better in the end.
