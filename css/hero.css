@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 body{
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   font-family: 'Anton', sans-serif;
@@ -9,6 +10,7 @@ body{
   width: 100%;
   background-color: black;
 }
+
 button {
   background-color: darkslategray;
   font-family: 'Anton', sans-serif;
@@ -16,7 +18,7 @@ button {
   color: white;
   border: none;
   font-size: 40px;
-  width: 600px;
+  width: 500px;
 }
 .container {
   display: flex;
@@ -31,7 +33,7 @@ button {
   -webkit-background-clip: text;
   
 }
-#real {
+.real {
   line-height: 1em;
   margin: 0 auto;
   font-size: 20rem;
@@ -43,4 +45,13 @@ button {
 a {
   text-decoration: none;
   color: white;
+}
+main  {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 900px;
+
 }
