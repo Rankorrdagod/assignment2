@@ -1,3 +1,5 @@
+
+
 #fs-frm input,
       #fs-frm select,
       #fs-frm textarea,
@@ -11,8 +13,8 @@
         border: none;
         border-radius: 0;
         display: block;
-        width: 100%;
-        padding: 0;
+        width: 500ch;
+        padding: 30px;
         margin: 0;
         -webkit-appearance: none;
         -moz-appearance: none;
@@ -48,7 +50,7 @@
       }
       #fs-frm [type="text"],
       #fs-frm [type="email"] {
-        width: 100%;
+        width: 500ch;
       }
       #fs-frm [type="button"],
       #fs-frm [type="submit"],
@@ -104,3 +106,11 @@
       #fs-frm fieldset.locale select[name="state"] {
         margin-right: 3%;
       }
+      body{
+        background-color: black;
+    
+    }
+    main{
+        background-color: dimgray;
+        max-width: 500ch;
+        }
