@@ -13,8 +13,6 @@ body{
   justify-content: center;
   min-height: 100vh;
   background: #fff url(../assets/Hero/Med/med-hero.webp) no-repeat fixed center;
-  
-/
   background-clip: text;
   -webkit-background-clip: text;
   
