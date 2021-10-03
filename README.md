@@ -21,7 +21,7 @@ Besides the grid set up taking a little while to get going correctly things for 
 
 # 260-a3
 1. https://rankorrdagod.github.io/cpnt260-a3/
-2. https://github.com/Rankorrdagod/cpnt260-a3
+2. https://github.com/Rankorrdagod/cpnt260-a3 - Dead Links
 ## Day 1:
 - Decided on a layout and to add black and white transition on hover (hopefully).
 - Going to try a flex layout and see how it works if not will switch to grid!
@@ -47,8 +47,8 @@ This was a lot of fun to setup! As i mentioned I was having issues with my butto
 - J Cole, [Wesbite](http://www.dreamville.com/artist/cole/), [Instagram](https://www.instagram.com/realcoleworld/?hl=en), [Twitter](https://twitter.com/jcolenc?lang=en)
 - Neil Gaiman, [Website](https://www.neilgaiman.com/), [Wikipedia](https://en.wikipedia.org/wiki/Neil_Gaiman), [Twitter](https://twitter.com/neilhimself?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) 
 # 260-a4
-1.
-2.
+1. https://rankorrdagod.github.io/cpnt260-a4/ 
+2. https://github.com/Rankorrdagod/cpnt260-a4
 ## Write up
 - Had a difficult time with the hamburger menu working and being placed properly to hide its menu when not in use. Also realized needed to hide it by display;noneing it and vice versa with media query to show at smaller screen sizes.
 - Getting the background photo in the landing page to fit sort of properly was strange as it needed to be resized a few times. Happy with the scroll effect though.
